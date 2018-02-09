@@ -41,3 +41,7 @@ For other than LibreOffice Calc formats you just need embed calc object to other
 # Impact
 
 It is easy to send any files with keys, passwords and anything else. 100% success rate, absolutely silent, support all modern versions of LibreOffice and may be embedded in almost all formats supporting by LO.
+
+# Acknowledgment
+
+Vulnerability was parallely found by me (@jollheef) and Ronnie Goodrich && Andrew Krasichkov according to LibreOffice team notes.
