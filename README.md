@@ -16,7 +16,7 @@ In original:
 
     For protocols that are not supported, such as ftp: // or file: //, WEBSERVICE returns the #VALUE! error value.
 
-In LibreOffice, these restrictions are not implemented.
+In LibreOffice, these restrictions are not implemented before 5.4.5/6.0.1.
 
 ## Second part
 
