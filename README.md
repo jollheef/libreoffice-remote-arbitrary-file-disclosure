@@ -40,7 +40,7 @@ For other than LibreOffice Calc formats you just need embed calc object to other
 
 # Impact
 
-It is easy to send any files with keys, passwords and anything else. 100% success rate, absolutely silent, support all modern versions of LibreOffice and may be embedded in almost all formats supporting by LO.
+It is easy to send any files with keys, passwords and anything else. 100% success rate, absolutely silent, affect LibreOffice prior to 5.4.5/6.0.1 in all operation systems (GNU/Linux, MS Windows, macOS etc.) and may be embedded in almost all formats supporting by LO. 
 
 # Acknowledgment
 
