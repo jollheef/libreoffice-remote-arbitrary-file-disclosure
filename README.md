@@ -1,5 +1,7 @@
 # Vulnerability description
 
+![CVE-2018-6871](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-6871)
+
 ## First part
 
 LibreOffice supports COM.MICROSOFT.WEBSERVICE function:
